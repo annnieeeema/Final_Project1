@@ -4,6 +4,7 @@ Random quote generator. Click on the 'Generate New Quote' button for more Words 
 
 ## Screenshots
 ### Wireframe
+<img src="https://i.imgur.com/K0HFT70.png"/>
 
 ### Main Page 
 

@@ -1,8 +1,8 @@
 body{
     background-image: linear-gradient(to left, rgb(109, 193, 253), rgb(0, 248, 203));
-    transition: 50s; 
-    transition-timing-function: ease-in;
     text-align: center;
+    background: url("https://i.imgur.com/aPCpOKq.jpg"); 
+    background-size: cover;
 }
 h1{
     color: white; 
@@ -28,4 +28,8 @@ main {
     color: navy;
     height: 50px; 
     text-align: center;
+}
+
+button {
+    margin: 40px; 
 }
