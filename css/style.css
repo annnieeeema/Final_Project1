@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to left, rgb(109, 193, 253), rgb(0, 248, 203));
+    transition: 50s; 
+    transition-timing-function: ease-in;
+    text-align: center;
+}
+h1{
+    color: white; 
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900px; 
+}
+
+main {
+    margin:auto; 
+    width: 500px; 
+    border: 1px solid; 
+    border-radius: 10px;
+    background-color: whitesmoke;
+    opacity: 0.6;
+    padding: 30px; 
+    color:black; 
+    text-align: center;
+}
+
+#getQuote {
+    width: 100px; 
+    color: navy;
+    height: 50px; 
+    text-align: center;
+}
