@@ -7,7 +7,7 @@ Random quote generator. Click on the 'Generate New Quote' button for more Words 
 <img src="https://i.imgur.com/zV8eS7i.png"/>
 
 ### Main Page 
-<img src="https://i.imgur.com/I9ywfu7.jpg"/>
+<img src="https://i.imgur.com/ktsSGet.jpg"/>
 
 ## Technologies Used
 - HTML
