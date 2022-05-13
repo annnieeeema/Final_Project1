@@ -17,7 +17,7 @@ Random quote generator. Click on the 'Generate New Quote' button for more Words 
 - Ajax
 
 ## Getting Started 
-[Click here](https://annnieeeema.github.io/Final_Project1/)to see the deployed app!
+[Click here](https://annnieeeema.github.io/Final_Project1/) to see the deployed app!
 
 ## Next Steps
 1. Have an animated background 
