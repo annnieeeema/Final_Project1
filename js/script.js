@@ -8,10 +8,10 @@ const $getQuote = $('#getQuote');
 //Button switches color during hover 
 $getQuote.on('click', getQuote); 
 $('#getQuote').hover(function(){
-    $(this).css('background-color', 'lightblue'); 
+    $(this).css('background-color', 'wheat'); 
 }); 
 $('#getQuote').mouseleave(function(){
-    $(this).css('background-color', 'white'); 
+    $(this).css('background-color', 'linen'); 
 })
 
 

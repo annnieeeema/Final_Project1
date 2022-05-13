@@ -3,28 +3,32 @@ body{
     text-align: center;
     background: url("https://i.imgur.com/aPCpOKq.jpg"); 
     background-size: cover;
+    background-repeat: no-repeat;
 }
 h1{
     color: white; 
     text-align: center;
-    font-size: 50px;
-    font-weight: 900px; 
+    font-size: 60px;
+    font-weight: 500px; 
+    font-family: 'Times New Roman'; 
+    text-shadow: 5px 5px 3px rgb(92, 140, 140); 
 }
 
 main {
     margin:auto; 
+    font-size: 16px; 
     width: 500px; 
     border: 1px solid; 
     border-radius: 10px;
     background-color: whitesmoke;
-    opacity: 0.6;
+    opacity: 0.7;
     padding: 30px; 
     color:black; 
     text-align: center;
 }
 
 #getQuote {
-    width: 100px; 
+    width: 130px; 
     color: black;
     height: 50px; 
     text-align: center;
@@ -32,4 +36,5 @@ main {
 
 button {
     margin: 40px; 
+    background-color: linen;
 }
