@@ -14,7 +14,7 @@ h1{
     text-shadow: 5px 5px 3px rgb(92, 140, 140); 
 }
 
-main {
+main{
     margin:auto; 
     font-size: 16px; 
     width: 500px; 
@@ -27,14 +27,14 @@ main {
     text-align: center;
 }
 
-#getQuote {
+#getQuote{
     width: 130px; 
     color: black;
     height: 50px; 
     text-align: center;
 }
 
-button {
+button{
     margin: 40px; 
     background-color: linen;
 }
