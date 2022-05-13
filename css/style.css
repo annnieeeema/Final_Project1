@@ -1,9 +1,9 @@
 body{
-    background-image: linear-gradient(to left, rgb(109, 193, 253), rgb(0, 248, 203));
     text-align: center;
-    background: url("https://i.imgur.com/aPCpOKq.jpg"); 
+    background: url("https://i.imgur.com/aPCpOKq.jpg") no-repeat center center fixed; 
     background-size: cover;
-    background-repeat: no-repeat;
+    position: relative; 
+    /* background-repeat: no-repeat; */
 }
 h1{
     color: white; 
@@ -38,4 +38,15 @@ main{
 button{
     margin: 40px; 
     background-color: linen;
+}
+
+@media (max-width: 500px) {
+    h1 {
+        text-align: center; 
+        color: lightblue; 
+    }
+    main {
+        width: 300px; 
+        font-size: 15px; 
+    }
 }

@@ -10,11 +10,12 @@ Random quote generator. Click on the 'Generate New Quote' button for more Words 
 <img src="https://i.imgur.com/MNhAftE.jpg"/>
 
 ## Technologies Used
-- HTML
-- Javascript
-- CSS
+- HTML5
+- JavaScript
+- CSS3
 - jQuery
-- Ajax
+- AJAX
+- Google Fonts
 
 ## Getting Started 
 [Click here](https://annnieeeema.github.io/Final_Project1/) to see the deployed app!
