@@ -18,7 +18,7 @@ Random quote generator. Click on the 'Generate New Quote' button for more Words 
 - Google Fonts
 
 ## Getting Started 
-[Click here](https://annnieeeema.github.io/Final_Project1/) to see the deployed app!
+[Click here](https://annnieeeema.github.io/Project1_quoteGenerator/) to see the deployed app!
 
 ## Next Steps
 1. Have an animated background 
